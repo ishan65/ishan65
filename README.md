@@ -47,7 +47,7 @@ VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
 
 #### 🛠️ Storage Management:
 - ***SAN*** - DELLEMC (PMAX, VMAX, VNX, XtremeIO) | IBM(XIV, SVC) | PureStorage | Huawei (Dorado)
-- **NAS*** - NetAPP(Cluster Mode - ONTAP) | DELLEMC (Isilon) | Huawei (Oceanstore)
+- ***NAS*** - NetAPP(Cluster Mode - ONTAP) | DELLEMC (Isilon) | Huawei (Oceanstore)
 - ***S3*** - DELLEMC (ECS)
 
 #### 🏅 Certifications [link](https://www.credly.com/users/ishan-mahajan.ce24ff93/badges#credly)
