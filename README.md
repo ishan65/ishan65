@@ -46,24 +46,24 @@ Amazon| OCI| GCP | Vmware VCP
 VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
 
 #### 🛠️ Storage Management:
-  • SAN - DELLEMC (PMAX, VMAX, VNX, XtremeIO), IBM(XIV, SVC), PureStorage()
-  • NAS - NetAPP(Cluster Mode - ONTAP),  DELLEMC (Isilon), Huawei (Oceanstore)
-  • S3 - DELLEMC (ECS)
+- SAN - DELLEMC (PMAX, VMAX, VNX, XtremeIO), IBM(XIV, SVC), PureStorage()
+- NAS - NetAPP(Cluster Mode - ONTAP),  DELLEMC (Isilon), Huawei (Oceanstore)
+- S3 - DELLEMC (ECS)
 
 #### 🏅 Certifications [link](https://www.credly.com/users/ishan-mahajan.ce24ff93/badges#credly)
-• Certified Kubernetes Administrator
-• AWS Certified Solutions Architect – Associate
-• OCI Cloud Operations Certified Associate
-• Oracle Cloud Infrastructure Foundations 2020 Certified Associate
-• Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate
-• Oracle Autonomous Database Cloud 2019 Certified Specialist
-• Oracle Cloud Infrastructure 2019 Certified Architect Professional
-• HCIE – Storage
-• HCIA – Storage
-• VCE Certified Converged Infrastructure Associate (VCE-CIA)
-• ITILv3 certified
-• EMC Information Storage & Management
-• BCFA Brocade – 16Gbps
+- Certified Kubernetes Administrator
+- AWS Certified Solutions Architect – Associate
+- OCI Cloud Operations Certified Associate
+- Oracle Cloud Infrastructure Foundations 2020 Certified Associate
+- Oracle Cloud Infrastructure 2019 Cloud Operations Certified Associate
+- Oracle Autonomous Database Cloud 2019 Certified Specialist
+- Oracle Cloud Infrastructure 2019 Certified Architect Professional
+- HCIE – Storage
+- HCIA – Storage
+- VCE Certified Converged Infrastructure Associate (VCE-CIA)
+- ITILv3 certified
+- EMC Information Storage & Management
+- BCFA Brocade – 16Gbps
 
 ---
 
