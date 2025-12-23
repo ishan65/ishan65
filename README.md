@@ -39,7 +39,7 @@ Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 Django| Flask| React | Node.js | Tailwind CSS
 Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD
 
-#### 🗄️ Cloud Management:
+#### ☁️ Cloud:
 Amazon| OCI| GCP | Vmware VCP
 
 #### 🗄️ Information Management: Server
