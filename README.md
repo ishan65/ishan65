@@ -33,11 +33,14 @@ I have worked and contributed in organisations - IBM, Xerox, Unisys, EmiratesNBD
 ### 🧰 Tech Stack
 
 #### 🖥️ Languages
-Python| JavaScript | Go | C | C++  | TypeScript | Bash
+Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 #### ⚡ Frameworks & Tools
-Django| React | Node.js | Tailwind CSS | Docker | Kubernetes |
-Terraform | Ansible | GitHub Actions | AWS | Fedora Linux ❤️
+Django| Flask| React | Node.js | Tailwind CSS
+Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD |
+
+#### 🗄️ Cloud Management:
+Amazon| OCI| GCP | Vmware VCP
 
 #### 🗄️ Information Management: Server
 VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
@@ -64,11 +67,14 @@ VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
 
 ---
 
+### 💫 Quote I Live By
+> “Anything a man with 2 hand and 2 legs can do, I can do.”
+
+---
+
 ### 🌱 Currently Exploring
 
-- **Microservices** and scalable distributed architectures
 - **AI Engineering** — designing and experimenting with autonomous AI agents
-- Enhancing DevOps automation pipelines and infrastructure as code
 
 ---
 
@@ -80,19 +86,16 @@ I love connecting with people who:
 
 📫 **Reach out to me on [LinkedIn](https://www.linkedin.com/in/ishan-mahajan-718a2a30/)** — I’d love to chat, learn, or collaborate!
 
+
 ---
 
 ### ✨ Fun Facts
 
+- I have 🔴 YouTube Channel (IXT65)[https://www.youtube.com/@ixt6561]
 - I am fan of  **Fedora Linux**🐧
 - I believe **small consistent progress beats intensity**
 - I find joy in helping and making life easy of my team members with my skills and behaviour.
 
-
----
-
-### 💫 Quote I Live By
-> “Anything a man with 2 hand and 2 legs can do, I can do.”
 
 ---
 
