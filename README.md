@@ -33,24 +33,30 @@ I have worked and contributed in organisations - IBM, Xerox, Unisys, EmiratesNBD
 ### 🧰 Tech Stack
 
 #### 🖥️ Languages
+
 Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 #### ⚡ Frameworks & Tools
-Django| Flask| React | Node.js | Tailwind CSS
+
+Django| Flask| React | Node.js | Tailwind CSS | Bootstrap
 Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD
 
 #### ☁️ Cloud:
+
 Amazon| OCI| GCP | Vmware VCP
 
 #### 🗄️ Information Management: Server
+
 VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
 
 #### 🛠️ Storage Management:
-- ***SAN*** - DELLEMC (PMAX, VMAX, VNX, XtremeIO) | IBM(XIV, SVC) | PureStorage | Huawei (Dorado)
-- ***NAS*** - NetAPP(Cluster Mode - ONTAP) | DELLEMC (Isilon) | Huawei (Oceanstore)
-- ***S3*** - DELLEMC (ECS)
+
+- **_SAN_** - DELLEMC (PMAX, VMAX, VNX, XtremeIO) | IBM(XIV, SVC) | PureStorage | Huawei (Dorado)
+- **_NAS_** - NetAPP(Cluster Mode - ONTAP) | DELLEMC (Isilon) | Huawei (Oceanstore)
+- **_S3_** - DELLEMC (ECS)
 
 #### 🏅 Certifications [link](https://www.credly.com/users/ishan-mahajan.ce24ff93/badges#credly)
+
 - Certified Kubernetes Administrator
 - AWS Certified Solutions Architect – Associate
 - OCI Cloud Operations Certified Associate
@@ -68,6 +74,7 @@ VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
 ---
 
 ### 💫 Quote I Live By
+
 > “Anything a man with 2 hand and 2 legs can do, I can do.”
 
 ---
@@ -79,23 +86,23 @@ VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
 ---
 
 ### 💬 Let's Connect
+
 I love connecting with people who:
+
 - Share knowledge generously 🤝
 - Enjoy building meaningful things 🚀
 - Believe in respect, curiosity, and kindness 💙
 
 📫 **Reach out to me on [LinkedIn](https://www.linkedin.com/in/ishan-mahajan-718a2a30/)** — I’d love to chat, learn, or collaborate!
 
-
 ---
 
 ### ✨ Fun Facts
 
 - I have 🔴 YouTube Channel (IXT65)[https://www.youtube.com/@ixt6561]
-- I am fan of  **Fedora Linux**🐧
+- I am fan of **Fedora Linux**🐧
 - I believe **small consistent progress beats intensity**
 - I find joy in helping and making life easy of my team members with my skills and behaviour.
-
 
 ---
 
