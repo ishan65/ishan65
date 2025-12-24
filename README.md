@@ -38,8 +38,8 @@ Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 #### ⚡ Frameworks & Tools
 
-Django| Flask| React | Node.js | Tailwind CSS | Bootstrap
-Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD
+- Django| Flask| React | Node.js | Tailwind CSS | Bootstrap
+- Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD
 
 #### ☁️ Cloud:
 
