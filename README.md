@@ -14,7 +14,7 @@ I have worked and contributed in organisations - IBM, Xerox, Unisys, EmiratesNBD
 
 - 🧠 **Infrastrture Engineering:** Managing the virtual infra structure and deliver services for private cloud.
 - 🧠 **Software Engineering:** Clean architecture, design patterns, and maintainable code.
-- ⚙️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Ansible, CI/CD, and the AWS basics (Mitwely Labs Certified).
+- ⚙️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, Ansible, CI/CD, and the AWS basics.
 - 🌐 **Full-Stack Development:** React, Node.js, and Django.
 - 🤖 **AI Engineering:** Building and experimenting with **AI agents** and creative automation tools.
 - 📊 **Algorithms & Data Handling:** SQL, numerical computation, and data-driven logic.
@@ -38,7 +38,7 @@ Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 #### ⚡ Frameworks & Tools
 
-- Django| Flask| React | Node.js | Tailwind CSS | Bootstrap
+- Django| Flask| React | Node.js | Tailwind CSS | Bootstrap | Nextjs
 - Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD
 
 #### ☁️ Cloud:
