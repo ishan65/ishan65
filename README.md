@@ -27,6 +27,7 @@ I have worked and contributed in organisations - IBM, Xerox, Unisys, EmiratesNBD
 - [bluecatipreg](https://pypi.org/project/bluecatipreg/) - IPAM Bluecat feature has been simplified for management of DNS and IP registration.
 - [ucamvrobillpsql](https://pypi.org/project/ucamvrobillpsql/) - Implement the CAPEX model in the VCP which was custom request of the research departments.
 - [youtube-downloaders](https://pypi.org/project/youtube-downloaders/) - This is fun project which can be used to download the videos from Youtube. [Web, GUI and CLI] capability is provided.
+- [vrabill](https://github.com/ishan65/vrabill_notify) - Package utilized to have custom bill from VRA.
 
 ---
 
