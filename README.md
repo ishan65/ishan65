@@ -47,7 +47,7 @@ Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 Amazon| OCI| GCP | Vmware VCP
 
-### 🛠️ GitOps (tools for engineering)
+#### 🛠️ GitOps (tools for engineering)
 
 flux
 
