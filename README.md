@@ -47,6 +47,10 @@ Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 Amazon| OCI| GCP | Vmware VCP
 
+### 🛠️ GitOps (tools for engineering)
+
+flux
+
 #### 🗄️ Information Management: Server
 
 VMware 7| Vmware 8| Red HAT 7 | Red HAT 8 | Ubuntu 22 | Windows 2012
