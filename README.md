@@ -29,6 +29,7 @@ I have worked and contributed in organisations - IBM, Xerox, Unisys, EmiratesNBD
 - [ucamvrobillpsql](https://pypi.org/project/ucamvrobillpsql/) - Implement the CAPEX model in the VCP which was custom request of the research departments.
 - [youtube-downloaders](https://pypi.org/project/youtube-downloaders/) - This is fun project which can be used to download the videos from Youtube. [Web, GUI and CLI] capability is provided.
 - [vrabill](https://github.com/ishan65/vrabill_notify) - Package utilized to have custom bill from VRA.
+- [ucamwasabi](https://github.com/ishan65/ucamwasabi) - This application is deployed on kubernetes using flux which fetch the data from API reponse to the MSSQL DB. Information in the MSSQL DB is utilized by [PowerBI reports](https://github.com/ishan65/powerbi)
 
 ---
 
@@ -42,6 +43,7 @@ Python| JavaScript | Go | C | C++ | PHP | Perl | TypeScript | Bash
 
 - Django| Flask| React | Node.js | Tailwind CSS | Bootstrap | Nextjs
 - Docker | Kubernetes | Terraform | Ansible | GitHub Actions | GITLAB | GITLAB CICD
+  PowerBI
 
 #### ☁️ Cloud:
 
